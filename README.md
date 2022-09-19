@@ -1,1 +1,5 @@
 # kamilpython
+
+
+
+learing python
